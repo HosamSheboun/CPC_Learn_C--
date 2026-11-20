@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\hosam\\Documents\\CPC\\Level 0\\Project 45\\main.cpp","tests":[{"id":1795198885933,"input":"101","output":"101\nYES"},{"id":1795198898129,"input":"17","output":"71\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hosam\\Documents\\CPC\\Level 0\\Project 45\\main.cpp","group":"local","local":true}
